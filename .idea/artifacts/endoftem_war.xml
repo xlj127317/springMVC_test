@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="endoftem:war">
+    <output-path>$PROJECT_DIR$/../target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>endoftem</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="endoftem-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="endoftem:war exploded" />
+    </root>
+  </artifact>
+</component>

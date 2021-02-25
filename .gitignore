@@ -1,0 +1,3 @@
+# 项目排除路径
+/springmvc_day01_start/target/
+/springmvc_day02_01_response/target/
